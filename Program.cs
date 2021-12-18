@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using MetroFramework;
 using System.Windows.Forms;
 
 namespace PS4OfflineAccountActivator
@@ -17,5 +18,8 @@ namespace PS4OfflineAccountActivator
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
         }
+
     }
+
+
 }
