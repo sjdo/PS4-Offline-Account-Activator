@@ -1,4 +1,4 @@
-# PS4OfflineAccountActivator
+# PS4OfflineAccountActivator 9.00 ONLY!
 
 Activates PSN account on jailbroken PS4 allowing you to export save data to USB among other things. The offsets are for 9.00 fw version. 
 
