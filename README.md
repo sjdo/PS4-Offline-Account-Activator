@@ -6,7 +6,7 @@ Requires [ps4debug](https://github.com/jogolden/ps4debug) to compile
 
 Requires [MetroModernUI.1.4.0.0](https://github.com/dennismagno/metroframework-modern-ui) to compile
 
-![Screenshot of the program](https://github.com/sjdo/PS4OfflineAccountActivator/blob/master/screenshots/ps4_1.png)
+![Screenshot of the program](https://github.com/sjdo/PS4OfflineAccountActivator/blob/master/screenshots/ps4_4.png)
 
 ## Notes & Warnings
 
