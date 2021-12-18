@@ -3,6 +3,7 @@
 Activates PSN account on jailbroken PS4 allowing you to export save data to USB among other things. The offsets are for 9.00 fw version. 
 
 Requires [ps4debug](https://github.com/jogolden/ps4debug) to compile
+
 Requires [MetroModernUI.1.4.0.0](https://github.com/dennismagno/metroframework-modern-ui) to compile
 
 ![Screenshot of the program](https://github.com/sjdo/PS4OfflineAccountActivator/blob/master/screenshots/ps4_1.png)
