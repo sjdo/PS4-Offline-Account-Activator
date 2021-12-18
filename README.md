@@ -19,7 +19,7 @@ I repeat, I recommend to use a fresh console account for the activation, but do 
 
 ## How to use
 
-1. Launch ps4debug on your PS4 whit Payload Guest [Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)
+1. Launch ps4debug on your PS4 wiht Payload Guest [Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)
 2. Launch this program on your computer
 3. Type in your PS4 IP adress and click Connect
 4. Click Get Users
