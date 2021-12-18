@@ -32,5 +32,6 @@ I repeat, I recommend to use a fresh console account for the activation, but do 
 ## Credits
 
 Made by Sjdo 
+Based on [PS4OfflineAccoutActivator](https://github.com/charlyzard/PS4OfflineAccountActivator)
 
 Thanks to jogolden for the great ps4debug and to all the PS4 scene for making this possible.
